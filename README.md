@@ -1,3 +1,27 @@
+# About
+
+This is my personal fork of slstatus. I created it by:
+
+```sh
+git clone git clone https://git.suckless.org/slstatus
+cd slstatus
+git remote rename origin upstream
+git remote add origin git@github.com:erietz/slstatus.git
+git push -u origin master
+```
+
+To pull updates from suckless
+
+```sh
+git pull upstream/master
+```
+
+To push updates to my fork
+
+```sh
+git push origin ewr
+```
+
 slstatus - suckless status
 ==========================
 slstatus is a suckless status monitor for window managers that use WM_NAME
