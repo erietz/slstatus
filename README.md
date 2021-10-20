@@ -1,3 +1,5 @@
+![Screenshot](./2021-10-20-145956_3440x1440_scrot.png "screenshot")
+
 # About
 
 This is my personal fork of slstatus. I created it by:
