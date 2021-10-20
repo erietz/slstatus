@@ -1,4 +1,4 @@
-![Screenshot](./2021-10-20-145956_3440x1440_scrot.png "screenshot")
+![Screenshot](./2021-10-20-150307_3440x1440_scrot.png "screenshot")
 
 # About
 
