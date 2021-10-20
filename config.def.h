@@ -73,6 +73,6 @@ static const struct arg args[] = {
     { disk_total,   "%s]",          "/" },
     { temp,         " [%s°C]",      "/sys/class/thermal/thermal_zone0/temp" },
     { datetime,     " [%s]",        "%F %T" },
-    { battery_perc, "| %s%%",       "BAT0" }
+    { battery_perc, " [%s%%]",       "BAT0" }
 
 };
