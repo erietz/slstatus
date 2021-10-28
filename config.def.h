@@ -69,8 +69,8 @@ static const struct arg args[] = {
     { cpu_perc,     " [cpu: %s%%]", NULL },
     { ram_used,     " [ram: %s/",   NULL },
     { ram_total,    "%s]",          NULL },
-    { disk_used,    " [disk: %s/",  "/" },
-    { disk_total,   "%s]",          "/" },
+    /* { disk_used,    " [disk: %s/",  "/" }, */
+    /* { disk_total,   "%s]",          "/" }, */
     { temp,         " [%s°C]",      "/sys/class/thermal/thermal_zone0/temp" },
     { datetime,     " [%s]",        "%F %T" },
     { battery_perc, " [%s%%]",       "BAT0" }
